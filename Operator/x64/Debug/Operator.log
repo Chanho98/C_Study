@@ -1,0 +1,4 @@
+﻿  Operator.c
+C:\Users\82108\Documents\Programming\C_Programing\C_Study\Operator\Operator.c(18,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\82108\Documents\Programming\C_Programing\C_Study\Operator\Operator.c(18,9): warning C4313: 'printf': 서식 문자열의 '%p'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+  Operator.vcxproj -> C:\Users\82108\Documents\Programming\C_Programing\C_Study\x64\Debug\Operator.exe
