@@ -4,7 +4,7 @@
 int main()
 {
 	/* Thought Pointer's Size is 8 bytes */
-	
+
 	char* s = "Jane";
 
 	printf("\n\n\tPOV Pointer\n");
@@ -13,7 +13,7 @@ int main()
 	printf("\tPointer + 1         :%p \n", s + 1, &s);
 	printf("\tSizeof Char pointer :%d \n", sizeof(s));				// N0.2 Sizeof whole array
 	printf("\tPrint String        :%s \n", s);
-	
+
 	printf("\n\tSince Pointer is L-Value, So pointer can be modified\n");
 	s = "change";
 	printf("\tAddress for Pointer :%p  Address for Pointer :%p \n", s, &s);
@@ -33,7 +33,7 @@ int main()
 	printf("\tPrint String        :%s \n", arr);
 	*/
 
-	int arr_num[] = {0, 1, 2, 3, 4,  5 ,6 ,7, 8, 9};
+	int arr_num[] = { 0, 1, 2, 3, 4,  5 ,6 ,7, 8, 9 };
 	printf("\tAddress of first index in Array :%p\n", arr_num);
 	printf("\tIdentitier + 1                  :%p\n", arr_num + 1);		// Plus as sizeof DataType
 
