@@ -3,7 +3,7 @@
 int main()
 {
 	sizeof(4);
-	printf("hellp");
+	printf("hello");   // try to fix
 
 	return 0;
 }
