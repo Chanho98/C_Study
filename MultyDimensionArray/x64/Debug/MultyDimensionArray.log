@@ -1,0 +1,4 @@
+﻿  MultyDimensionArray.c
+C:\Users\82108\Documents\Programming\C_Programing\C_Study\MultyDimensionArray\MultyDimensionArray.c(34,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[4]'입니다.
+C:\Users\82108\Documents\Programming\C_Programing\C_Study\MultyDimensionArray\MultyDimensionArray.c(34,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int (*)[4]' 형식)과(와) 충돌합니다.
+  MultyDimensionArray.vcxproj -> C:\Users\82108\Documents\Programming\C_Programing\C_Study\x64\Debug\MultyDimensionArray.exe

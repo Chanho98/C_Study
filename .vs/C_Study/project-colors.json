@@ -30,7 +30,12 @@
       "ProjectGuid": "0ccd13e7-b3c9-4157-a034-5e446e3d7135",
       "DisplayName": "Operator",
       "ColorIndex": 4
+    },
+    "46347429-d6e1-40e8-b977-f8a2512c552f": {
+      "ProjectGuid": "46347429-d6e1-40e8-b977-f8a2512c552f",
+      "DisplayName": "MultyDimensionArray",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

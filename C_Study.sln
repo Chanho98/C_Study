@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operator", "Operator\Operator.vcxproj", "{0CCD13E7-B3C9-4157-A034-5E446E3D7135}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultyDimensionArray", "MultyDimensionArray\MultyDimensionArray.vcxproj", "{46347429-D6E1-40E8-B977-F8A2512C552F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0CCD13E7-B3C9-4157-A034-5E446E3D7135}.Release|x64.Build.0 = Release|x64
 		{0CCD13E7-B3C9-4157-A034-5E446E3D7135}.Release|x86.ActiveCfg = Release|Win32
 		{0CCD13E7-B3C9-4157-A034-5E446E3D7135}.Release|x86.Build.0 = Release|Win32
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Debug|x64.ActiveCfg = Debug|x64
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Debug|x64.Build.0 = Debug|x64
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Debug|x86.ActiveCfg = Debug|Win32
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Debug|x86.Build.0 = Debug|Win32
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Release|x64.ActiveCfg = Release|x64
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Release|x64.Build.0 = Release|x64
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Release|x86.ActiveCfg = Release|Win32
+		{46347429-D6E1-40E8-B977-F8A2512C552F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
