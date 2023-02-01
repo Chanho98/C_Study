@@ -5,6 +5,7 @@ int main()
 {
 
 	char c = 'c';
+	int* p;
 	double d = 0.0;
 	float f = 0.1;
 
@@ -12,11 +13,12 @@ int main()
 	printf("-----------------------------------\n");
 
 
-	printf("\tchar   Size  %d\n", sizeof(c));	    // char   Size 1
-	printf("\tint    Size  %d\n", sizeof('0'));		// int    Size 4  '0' Char code number size int
-	printf("\tint    Size  %d\n", sizeof(5));		// int    Size 4
-	printf("\tfloat  Size  %d\n", sizeof(f));		// float  Size 4
-	printf("\tdouble Size  %d\n", sizeof(d));		// double Size 8
+	printf("\tchar     Size  %d\n", sizeof(c));	    // char     Size 1
+	printf("\tint      Size  %d\n", sizeof('0'));	// int      Size 4  '0' Char code number size int
+	printf("\tint      Size  %d\n", sizeof(5));		// int      Size 4
+	printf("\tfloat    Size  %d\n", sizeof(f));		// float    Size 4
+	printf("\tpointer  Size  %d\n", sizeof(p));		// pointer  Size 8
+	printf("\tdouble   Size  %d\n", sizeof(d));		// double   Size 8
 
 
 	return 0;
