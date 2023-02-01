@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e6138ae-dec8-439c-bfd9-fee936a6bd1d": {
+      "ProjectGuid": "6e6138ae-dec8-439c-bfd9-fee936a6bd1d",
+      "DisplayName": "C_Study",
+      "ColorIndex": 0
+    },
+    "78399c5e-2451-4a70-a59b-742c9195035f": {
+      "ProjectGuid": "78399c5e-2451-4a70-a59b-742c9195035f",
+      "DisplayName": "test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
